@@ -6,3 +6,5 @@ empty = {
 }
 end
 
+pioneer
+  hash = { :name => "Grace Hopper" }
