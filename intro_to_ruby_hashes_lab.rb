@@ -6,5 +6,8 @@ empty = {
 }
 end
 
-pioneer
+def pioneer
   hash = { :name => "Grace Hopper" }
+
+end
+
