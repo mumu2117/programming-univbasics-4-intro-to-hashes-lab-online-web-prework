@@ -6,8 +6,11 @@ empty = {
 }
 end
 
-def my_hash
-  # return a valid hash with any key/value pair of your choice
+def actor 
+  
+  actor = {
+	name: "Dwayne The Rock Johnson"
+	}
 end
 
 def pioneer
