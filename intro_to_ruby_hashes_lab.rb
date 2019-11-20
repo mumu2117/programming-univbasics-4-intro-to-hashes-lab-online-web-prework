@@ -11,3 +11,8 @@ def pioneer
 
 end
 
+def id_generator
+  
+  return = { :id => 2 }
+  
+end	
