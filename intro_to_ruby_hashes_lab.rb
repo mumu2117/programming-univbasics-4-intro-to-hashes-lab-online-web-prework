@@ -29,8 +29,10 @@ def monopoly_with_second_tier
 		}
 	}
 
-def my_hash_creator(key, value)
-  # return a hash that includes the key and value parameters passed into this method
+def monopoly_with_third_tier
+  
+  
+  
 end
 
 def read_from_hash(hash, key)
